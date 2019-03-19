@@ -67,11 +67,15 @@ h1{
     margin:10px 5px 10px 5px;
 }
 #immage{
-font-size: 35px;
+font-size: 25px;
 }
 .brands{
 max-width:120px;max-height:105px;
 }
 #help-hond{
     width:150%;
+}
+#end{
+display:inline-block;
+text-align:center;
 }

@@ -63,7 +63,7 @@ h1{
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0e3a47', endColorstr='#00b7ea',GradientType=0 ); /* IE6-9 */
 }
 #immage{
-font-size: 35px;
+font-size: 25px;
 }
 #gradient{
         display:inline-block;
