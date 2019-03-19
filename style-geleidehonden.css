@@ -4,7 +4,7 @@
     ;}
 .container{
     background-color:#4C5156
-    ;margin:200px;}
+    ;margin:auto;}
 .top-nav ul{
     display: flex;
     list-style: none;
@@ -44,8 +44,9 @@ a{
 a:hover{
     color: #68C9F9;
 }
-h1{
+h1{font-family: 'Open Sans', sans-serif;
     color: #D00672;
+    font-size:33px ;
 }
 #a{background-color:  #697077;}
 #b{background-color: #39A0ED;}
@@ -76,4 +77,15 @@ margin-top:65px;
     margin-top:30px;
     background-color: #CEDFED ;
     border-radius: 5px;
+}
+.brands{
+    width:200px;
+    height: auto;
+    margin:10px 5px 10px 5px;
+}
+#immage{
+font-size: 35px;
+}
+.brands{
+max-width:120px;max-height:105px;
 }

@@ -4,7 +4,7 @@
     ;}
 .container{
     background-color:#4C5156
-    ;margin:200px;}
+    ;margin:auto;}
 .top-nav ul{
     display: flex;
     list-style: none;
@@ -44,7 +44,9 @@ a:hover{
     color: #68C9F9;
 }
 h1{
+    font-family: 'Open Sans', sans-serif;
     color: #D00672;
+    font-size:33px ;
 }
 #a{background-color:  #697077;}
 #b{background-color: #39A0ED;}
@@ -66,4 +68,10 @@ h1{
 }
 #immage{
 font-size: 35px;
+}
+.brands{
+max-width:120px;max-height:105px;
+}
+#help-hond{
+    width:150%;
 }
